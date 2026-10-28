@@ -1,3 +1,5 @@
+![Bank Marketing SQL Project](Project-overview.png.png)
+
 # Bank Marketing Campaign Analysis using SQL Server
 
 ## 📌 Project Overview
